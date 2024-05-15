@@ -56,12 +56,18 @@ To build and run the project locally, follow these steps:
 
 ## Dependencies
 
+This project utilizes the following dependencies:
+
 - Retrofit: For making network requests to the GitHub API.
 - Room: For local database storage.
 - ViewModel and LiveData: For managing UI-related data.
-- JetPack libraries: For architecture components like ViewModel and LiveData.
-- Espresso: For UI testing.
-- JUnit: For unit testing.
+- Coroutines: For handling asynchronous operations in a non-blocking manner.
+- Flow: For emitting streams of data asynchronously and sequentially.
+- JetPack libraries: Including ViewModel and LiveData, for architecture components.
+
+**Jetpack Compose**:
+- Jetpack Compose is used for building the UI components in a declarative manner.
+
 
 ## Contributing
 
