@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RepoHunt</string>
+
+    <string name="back_button">Back</string>
+    <string name="repo_detail">RepoDetail</string>
+    <string name="connect_internet">Please check your internet connection first</string>
+</resources>
