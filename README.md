@@ -13,9 +13,14 @@ This is a mobile application built using the GitHub API to search through reposi
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Repository Details Screen](screenshots/repo_details_screen.png)
-![WebView Screen](screenshots/web_view.png)
+<div style="display: flex; flex-direction: row;">
+    <img src="screenshots/home_screen.png" alt="Home Screen" width="250"/>
+    <img src="screenshots/repo_details_screen.png" alt="Repository Details Screen" width="250"/>
+    <img src="screenshots/web_view.png" alt="WebView Screen" width="250"/>
+</div>
+
+
+
 ## Installation
 
 Download the APK file from the [Releases](app/release/app-release.apk) section and install it on your Android device.
